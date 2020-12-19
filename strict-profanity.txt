@@ -1,0 +1,3 @@
+strict_word1
+strict_word2
+strict_word3

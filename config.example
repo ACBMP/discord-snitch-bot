@@ -1,0 +1,5 @@
+TOKEN = MY_TOKEN_HERE
+CHANNEL_ID = MY_CHANNEL_ID_HERE
+BOT_ID = MY_BOT_ID_HERE
+profanity_db = profanity.txt
+strict_profanity_db = strict_profanity.txt
